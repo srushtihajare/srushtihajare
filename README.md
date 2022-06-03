@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python
 - 🌱 I’m currently learning ...AWS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.linkedin.com/in/srushti-hajare-a70ba2161/
+- 📫 How to reach me ... srushtihajare98@gmail.com
 
 <!---
 srushtihajare/srushtihajare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
